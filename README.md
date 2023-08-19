@@ -1,16 +1,21 @@
-# feed_profile
+# Aplicativo Flutter de Listagem de Projetos
 
-A new Flutter project.
+Este é um aplicativo Flutter que se conecta a uma API para listar projetos. Ele exibe informações como título do projeto, descrição, proprietário e data de criação. Sendo o meu primeiro aplicativo em Flutter que consume uma api.
 
-## Getting Started
+## Pré-requisitos
 
-This project is a starting point for a Flutter application.
+Certifique-se de ter o Flutter e o Dart instalados em sua máquina. Para obter informações sobre como configurar o ambiente Flutter, visite [Flutter Install](https://flutter.dev/docs/get-started/install).
 
-A few resources to get you started if this is your first Flutter project:
+## Como Executar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone ou faça o download deste repositório.
+2. Abra o terminal e navegue até a pasta do projeto.
+3. Execute o aplicativo utilizando o seguinte comando:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##API
+
+O aplicativo se conecta em uma api desenvolvida em Django. 
+[api em Django](https://github.com/rafaelorland/myapirest)
+
+```bash
+flutter run
