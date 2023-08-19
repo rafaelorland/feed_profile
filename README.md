@@ -6,6 +6,11 @@ Este é um aplicativo Flutter que se conecta a uma API para listar projetos. Ele
 
 Certifique-se de ter o Flutter e o Dart instalados em sua máquina. Para obter informações sobre como configurar o ambiente Flutter, visite [Flutter Install](https://flutter.dev/docs/get-started/install).
 
+##API
+
+O aplicativo se conecta em uma api desenvolvida em Django. 
+[api em Django](https://github.com/rafaelorland/myapirest)
+
 ## Como Executar
 
 1. Clone ou faça o download deste repositório.
@@ -13,9 +18,3 @@ Certifique-se de ter o Flutter e o Dart instalados em sua máquina. Para obter i
 3. Execute o aplicativo utilizando o seguinte comando:
 ```bash
 flutter run
-
-
-##API
-
-O aplicativo se conecta em uma api desenvolvida em Django. 
-[api em Django](https://github.com/rafaelorland/myapirest)
