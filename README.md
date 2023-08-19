@@ -11,11 +11,11 @@ Certifique-se de ter o Flutter e o Dart instalados em sua máquina. Para obter i
 1. Clone ou faça o download deste repositório.
 2. Abra o terminal e navegue até a pasta do projeto.
 3. Execute o aplicativo utilizando o seguinte comando:
+```bash
+flutter run
+
 
 ##API
 
 O aplicativo se conecta em uma api desenvolvida em Django. 
 [api em Django](https://github.com/rafaelorland/myapirest)
-
-```bash
-flutter run
